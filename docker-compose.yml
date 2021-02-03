@@ -1,0 +1,16 @@
+version: '3'
+
+services:
+  wiremock:
+    image: rodolpheche/wiremock:latest
+    container_name: wiremock
+    ports:
+      - "8080:8080"
+      - "7443:8443"
+
+    volumes:
+      - ./__files/:/./home/wiremock/__files/
+      - ./mappings/:/./home/wiremock/mappings/
+
+
+# http://localhost:8080/__admin/

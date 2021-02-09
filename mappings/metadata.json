@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/image/([A-Za-z0-9]*)/metadata"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "metadata_response.json",
+    "headers": {
+      "Content-Type": "application/json; charset=utf-8",
+      "date": "Thu, 04 Feb 2021 12:44:06 GMT",
+      "ETag": "W/\"5e4-2fJ5FTqJqoqqJ6EmQ3ekY+0bZig\"",
+
+      "Connection": "Close"
+    }
+  }
+}

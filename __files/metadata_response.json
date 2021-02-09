@@ -1,0 +1,48 @@
+{
+  "propertyId": {
+    "objectId": "NINTCHDBPICT000779101249",
+    "baseTypeId": "cmis:document",
+    "objectTypeId": "Picture",
+    "versionSeriesId": "NINTCHDBPICT000779101249"
+  },
+  "propertyDateTime": {
+    "creationDate": "2021-02-03T16:34:48Z",
+    "lastModificationDate": "2021-02-03T16:34:48Z",
+    "undefined": "2021-02-23T00:00:00Z",
+    "picture_date": "2021-02-03T00:00:00Z",
+    "picture__expiration_date": "2021-02-23T00:00:00Z"
+  },
+  "propertyInteger": {
+    "contentStreamLength": "3390056",
+    "undefined": "0"
+  },
+  "propertyString": {
+    "contentStreamFileName": "NINTCHDBPICT000779101249.jpg",
+    "contentStreamMimeType": "image/jpeg",
+    "name": "NINTCHDBPICT000779101249.jpg",
+    "undefined": "1. Fee based",
+    "caption": "Some avo toad, yummmer",
+    "photographer": "Some One / Some Studio",
+    "copyright": "Some Studio All rights reserved.",
+    "keywords": [
+      "avo",
+      "toast",
+      "yummers"
+    ],
+    "source": "Some Studio",
+    "headline": "Some avo toad, yummmer",
+    "iptc_country": "England",
+    "provider": "Some One / Some Studion",
+    "picture__caption_clone": "Some avo toad, yummmer. Some One / Some Studio",
+    "picture__syndication_headline": "Some avo toad, yummmer",
+    "changeToken": "1",
+    "versionLabel": "1.0"
+  },
+  "propertyBoolean": {
+    "undefined": "false",
+    "isLatestVersion": "true",
+    "isMajorVersion": "true",
+    "isLatestMajorVersion": "true",
+    "isVersionSeriesCheckedOut": "false"
+  }
+}

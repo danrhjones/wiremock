@@ -1,0 +1,18 @@
+{
+  "propertyId": {
+    "objectId": "NINTCHDBUSGE000039962608",
+    "baseTypeId": "cmis:document",
+    "objectTypeId": "Usage"
+  },
+  "propertyDateTime": {
+    "creationDate": "2021-02-04T13:02:30Z",
+    "lastModificationDate": "2021-02-04T13:02:30Z"
+  },
+  "propertyString": {
+    "name": "NINTCHDBUSGE000039962608",
+    "undefined": "(Sent to Wordpress: The Sun)"
+  },
+  "propertyInteger": {
+    "undefined": "0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "/image/([A-Za-z0-9]*)"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "image.jpeg",
+    "headers": {
+      "Content-Type": "image/jpeg",
+      "cache-control": "private, max-age=0",
+      "date": "Thu, 04 Feb 2021 12:44:06 GMT",
+      "transfer-encoding": "chunked",
+      "Connection": "Close"
+    }
+  }
+}
